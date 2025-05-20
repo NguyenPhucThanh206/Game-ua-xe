@@ -17,3 +17,14 @@
     <li>Sau mỗi một khoảng thời gian, độ khó tăng lên (bằng cách giảm thời gian sinh chướng ngại).</li>
     <li>Người chơi có thể thu thập phần thưởng (ví dụ như ngôi sao) để tăng điểm.</li>
   </ul>
+
+  <p><strong>Cách điều khiển:</strong></p>
+  <ul>
+    <li>←: Sang trái</li>
+    <li>→: Sang phải</li>
+    <li>↑: Tiến lên</li>
+    <li>↓: Lùi xuống</li>
+    </ul>
+</div>
+
+
