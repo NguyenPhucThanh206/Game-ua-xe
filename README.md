@@ -27,4 +27,13 @@
     </ul>
 </div>
 
-
+<div class="section">
+  <h2>🔧 Kỹ thuật và bố trí</h2>
+  <ul>
+      <li> Ngôn ngữ: C++</li>
+      <li> Thư viện: SDL2</li>
+      <li> Quản lý cuộn nền: dùng scrolly để tạo hiệu ứng đường chạy đơn giản</li>
+      <li> Hình ảnh xe chính và chướng ngại được chọn từ trong tệp <code>img/</code> </li>
+          <p> Hình ảnh chính: được chọn một trong 3 loại xe có sẵn trong tệp </p>
+          <img src="img/car1.png">
+      
